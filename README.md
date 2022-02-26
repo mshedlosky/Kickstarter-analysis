@@ -15,7 +15,7 @@ There are a couple conclusions that can be drawn from the Theaters data based on
 
 With respect to the Play outcomes based on goal, there is a greater than 50% chance that a Play Kickstarter will have a Successful outcome if the goal is set to less than $20,000.
 
-While the above conclusions can be made, there are limitations of the data. It is not understood where this data is collection from and the method of collection. Further, there is no demographic data regarding the contributors such as income, age, ethnicity, zip code, and other items that may impact the outcomes. By not including such information, the results produced have the potential of reflecting bias. 
+While the above conclusions can be made, there are limitations of the data. It is not understood where this data is collection from and the method of collection. Further, there is no demographic data regarding the contributors such as income, age, ethnicity, zip code, and other items that may impact the outcomes. By not including such information the results produced have the potential of reflecting bias. 
 
-Other tables and charts that could be created to provide further insight would be charts related to Plays broken down by regions
+Other tables and charts that could be created to provide further insight would be charts related to Plays broken down by countries, comparing pledged to the goals, and compare other subcategories' results.
 
