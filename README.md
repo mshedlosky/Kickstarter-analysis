@@ -11,11 +11,14 @@ The second step of the analysis served to learn about a subcategory within Theat
 https://github.com/mshedlosky/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
 
 ## Results
+
+### Conclusions About Theater Kickstarts by Launch Date
 There are a couple conclusions that can be drawn from the Theaters data based on Launch Date. Firstly, May is the most favorable month to perform a Theater Kickstarter. The second conclusion is that December is the least favorable month to start a Theater Kickstarter.
 
+### Conclusion About Play Outcomes Based on Goal
 With respect to the Play outcomes based on goal, there is a greater than 50% chance that a Play Kickstarter will have a Successful outcome if the goal is set to less than $20,000.
-
+### Limitations of Data
 While the above conclusions can be made, there are limitations of the data. It is not understood where this data is collection from and the method of collection. Further, there is no demographic data regarding the contributors such as income, age, ethnicity, zip code, and other items that may impact the outcomes. By not including such information the results produced have the potential of reflecting bias. 
-
+### Other Tables and Charts
 Other tables and charts that could be created to provide further insight would be charts related to Plays broken down by countries, comparing pledged to the goals, and compare other subcategories' results.
 
