@@ -8,14 +8,11 @@ The first step of the analysis was intended to understand the Theater outcomes b
 
 The second step of the analysis served to learn about a subcategory within Theater, Plays. A second tab within the Kickstarter Challenge workbook was created called Outcomes Based on Goals. 8 Columns were created from Cell A1 through H1 respectively labeled Goal, Number Successful, Number Failed, Number Canceled, Total Project, Percent Successful, Percent Failed, and Percent Canceled. Thereafter, rows were labled from A2 to A13 respectively with ranges of goal amounts from less than 1000 in increments of 4999 up to 50000 or more. The COUNTIF forumla was utilized in Cells B2 to D13 to count quantity of Plays that were Successful, Failed, or Canceled provided a specific goal range. Next the totals with respect to outcomes were quantified in Column E based on goal ranges. The percent of each category was calculated by dividing the quantity of each category by the total with respect to a given goal. In order to prevent errors, the IFERROR formula was used.
 ##Results
-Two conclusions to draw from the Outcomes by Launch Date: 
-1. May is the most favorable month to perform a Theater Kickstarter. 
-2. December is the least favorable month to start a Theater Kickstarter.
+There are a couple conclusions that can be drawn from the Theaters data based on Launch Date. Firstly, May is the most favorable month to perform a Theater Kickstarter. The second conclusion is that December is the least favorable month to start a Theater Kickstarter.
 
-Conclusion about Outcomes Based on Goals:
-1. There is a greater than 50% chance Play Kickstarter will have a Successful outcome if the goal is set to less than $20,000.
+With respect to the Play outcomes based on goal, there is a greater than 50% chance that a Play Kickstarter will have a Successful outcome if the goal is set to less than $20,000.
 
-Limitations of Data: The data..
+However, there are some limitations to the data. It is not understood where this data is collection from and the method of collection. Further, there is no demographic data regarding the contributors such as income, age, ethnicity, zip code, and other items that may impact the outcomes. 
 
-Other tables and charts that could be created would be...
+Other tables and charts that could be created to provide further insight would be charts related to Plays broken down by regions
 
