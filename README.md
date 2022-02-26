@@ -9,7 +9,6 @@ https://github.com/mshedlosky/Kickstarter-analysis/blob/main/Theater_Outcomes_vs
 
 The second step of the analysis served to learn about a subcategory within Theater, Plays. A second tab within the Kickstarter Challenge workbook was created called Outcomes Based on Goals. 8 Columns were created from Cell A1 through H1 respectively labeled Goal, Number Successful, Number Failed, Number Canceled, Total Project, Percent Successful, Percent Failed, and Percent Canceled. Thereafter, rows were labled from A2 to A13 respectively with ranges of goal amounts from less than 1000 in increments of 4999 up to 50000 or more. The COUNTIF forumla was utilized in Cells B2 to D13 to count quantity of Plays that were Successful, Failed, or Canceled provided a specific goal range. Next the totals with respect to outcomes were quantified in Column E based on goal ranges. The percent of each category was calculated by dividing the quantity of each category by the total with respect to a given goal. In order to prevent errors, the IFERROR formula was used.
 https://github.com/mshedlosky/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
-
 ##Results
 There are a couple conclusions that can be drawn from the Theaters data based on Launch Date. Firstly, May is the most favorable month to perform a Theater Kickstarter. The second conclusion is that December is the least favorable month to start a Theater Kickstarter.
 
