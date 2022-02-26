@@ -15,3 +15,7 @@ Two conclusions to draw from the Outcomes by Launch Date:
 Conclusion about Outcomes Based on Goals:
 1. There is a greater than 50% chance Play Kickstarter will have a Successful outcome if the goal is set to less than $20,000.
 
+Limitations of Data: The data..
+
+Other tables and charts that could be created would be...
+
