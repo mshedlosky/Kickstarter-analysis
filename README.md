@@ -13,5 +13,5 @@ Two conclusions to draw from the Outcomes by Launch Date:
 2. December is the least favorable month to start a Theater Kickstarter.
 
 Conclusion about Outcomes Based on Goals:
-
+1. There is a greater than 50% chance Play Kickstarter will have a Successful outcome if the goal is set to less than $20,000.
 
