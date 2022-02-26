@@ -10,6 +10,8 @@ The second step of the analysis served to learn about a subcategory within Theat
 ##Results
 Two conclusions to draw from the Outcomes by Launch Date: 
 1. May is the most favorable month to perform a Theater Kickstarter. 
-2. 
+2. December is the least favorable month to start a Theater Kickstarter.
+
+Conclusion about Outcomes Based on Goals:
 
 
